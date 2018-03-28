@@ -1,0 +1,24 @@
+page-intro {
+
+}
+
+.slide {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+@media screen and (orientation:portrait) {
+    .responsive {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    /* Tela em pé (Retrato) */
+ }
+ 
+ @media screen and (orientation:landscape) {
+    .responsive {
+        padding-left: 40%;
+        padding-right: 40%;
+    }
+    /* Tela deitada (Paisagem) */
+ }
