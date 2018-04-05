@@ -21,12 +21,13 @@ export class FeedPage {
   public year: number = 2017;
   constructor(public navCtrl: NavController, public navParams: NavParams) {
   }
-
-  /*
-    public soma_2_nums(num1:number, num2:number): void{
-    alert(num1 + num2);
-  }
-  */
+ 
+/**
+ * public soma_2_nums(num1:number, num2:number): void{
+ * alert(num1 + num2);
+ * }
+ *
+ */
 
   ionViewDidLoad() {
     /*  this.soma_2_nums(10, 20); */
