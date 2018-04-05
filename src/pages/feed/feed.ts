@@ -26,7 +26,6 @@ export class FeedPage {
  * public soma_2_nums(num1:number, num2:number): void{
  * alert(num1 + num2);
  * }
- *
  */
 
   ionViewDidLoad() {
